@@ -22,4 +22,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=imslyth&icon=0&color=0)](https://visitcount.itsvg.in)
 
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Pourquoiiiiiiiii/Pourquoiiiiiiiii/output/github-contribution-grid-snake.svg" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
